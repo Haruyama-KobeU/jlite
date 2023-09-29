@@ -46,7 +46,6 @@ plotly>=5,<6
 bqplot
 
 # Kobe Univ
-nbconvert
 otter-grader
 py4macro
 py4etrics
@@ -55,3 +54,4 @@ see
 lmdiag
 japanize-matplotlib-jlite
 pandas-datareader
+nbconvert
