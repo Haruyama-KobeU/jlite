@@ -55,4 +55,4 @@ lmdiag
 japanize-matplotlib-jlite
 pandas-datareader
 nbconvert
-turtle
+PythonTurtle
