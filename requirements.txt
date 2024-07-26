@@ -53,5 +53,4 @@ pandas-datareader
 otter-grader
 py4macro
 py4etrics
-pyarrow
 wooldridge
