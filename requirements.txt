@@ -46,12 +46,12 @@ jupyterlab-night
 # bqplot
 
 # Kobe Univ
+japanize-matplotlib-jlite
+lmdiag
+pandas-datareader
+# nbconvert
 otter-grader
 py4macro
 py4etrics
+Pyarrow
 wooldridge
-see
-lmdiag
-japanize-matplotlib-jlite
-pandas-datareader
-nbconvert
