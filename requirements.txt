@@ -23,7 +23,7 @@ jupyterlab-language-pack-ja-JP
 # jupyterlab-fasta>=3,<4
 # JupyterLab: Geojson file renderer (optional)
 # jupyterlab-geojson>=3,<4
-JupyterLab: guided tour (optional)
+# JupyterLab: guided tour (optional)
 jupyterlab-tour
 JupyterLab: dark theme
 jupyterlab-night
