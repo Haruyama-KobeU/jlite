@@ -25,7 +25,7 @@ jupyterlab-language-pack-ja-JP
 # jupyterlab-geojson>=3,<4
 # JupyterLab: guided tour (optional)
 jupyterlab-tour
-JupyterLab: dark theme
+# JupyterLab: dark theme
 jupyterlab-night
 # JupyterLab: Miami nights theme (optional)
 # jupyterlab_miami_nights
