@@ -48,6 +48,7 @@ jupyterlab-night
 
 # Kobe Univ
 japanize-matplotlib-jlite
+gapminder
 lmdiag
 pandas-datareader
 # nbconvert
