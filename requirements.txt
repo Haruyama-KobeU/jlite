@@ -48,6 +48,7 @@ jupyterlab-night
 
 # Kobe Univ
 japanize-matplotlib-jlite
+jupyterlab-open-url-parameter
 gapminder
 lmdiag
 numpy~=1.26.0
