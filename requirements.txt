@@ -13,6 +13,9 @@ jupyterlite-pyodide-kernel==0.6.1
 # Language support (optional)
 #jupyterlab-language-pack-fr-FR
 jupyterlab-language-pack-ja-JP
+jupyterlab-language-pack-ko-KR
+jupyterlab-language-pack-zh-CN
+jupyterlab-language-pack-zh-TW
 
 # SQLite kernel (optional)
 #jupyterlite-xeus-sqlite==0.2.1
