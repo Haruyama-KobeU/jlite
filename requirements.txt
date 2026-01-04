@@ -55,6 +55,7 @@ japanize-matplotlib-jlite
 jupyterlab-open-url-parameter
 jupyterlab-filesystem-access
 gapminder
+linearmodels
 lmdiag
 numpy~=1.26.0
 pandas-datareader
