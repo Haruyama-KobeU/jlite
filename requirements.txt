@@ -1,11 +1,11 @@
 # Core modules (mandatory)
-jupyterlite-core==0.6.4
-jupyterlab~=4.4.5
-notebook~=7.4.5
+jupyterlite-core==0.7.1
+jupyterlab~=4.5.1
+notebook~=7.5.1
 
 
 # Python kernel (optional)
-jupyterlite-pyodide-kernel==0.6.1
+jupyterlite-pyodide-kernel==0.7.0
 
 # JavaScript kernel (optional)
 # jupyterlite-javascript-kernel==0.3.0
@@ -55,9 +55,9 @@ japanize-matplotlib-jlite
 jupyterlab-open-url-parameter
 jupyterlab-filesystem-access
 gapminder
-linearmodels==6.1
-lmdiag
-numpy~=1.26.0
+# linearmodels==6.1
+# lmdiag
+numpy>=1.21,<2
 pandas-datareader
 # nbconvert
 otter-grader
